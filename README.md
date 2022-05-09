@@ -1,2 +1,3 @@
-# Fashion-project
-Projeto de um site de moda
+#  Site de porfólio Fashion
+
+Projeto de um site de porfólio para artigos  de moda
